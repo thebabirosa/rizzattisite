@@ -1,0 +1,7 @@
+{
+  "name": "Rizzatti Móveis & Decorações",
+  "description": "Uma plataforma de design de interiores de luxo e fabricação sob medida, integrando artesanato tradicional com um Consultor de Decoração impulsionado por IA Gemini para transformar espaços residenciais em Florianópolis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
